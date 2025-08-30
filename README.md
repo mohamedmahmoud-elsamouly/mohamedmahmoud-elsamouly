@@ -6,8 +6,8 @@
 ![Totals Hits](https://komarev.com/ghpvc/?username=mohamedmahmoud-elsamouly&style=flat&color=orange&label=PROFILE+VIEWS)
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmohamedmahmoud-elsamouly&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
 
-[![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/your_number_here)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your_profile_here)
+[![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/201022213817)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-mahmoud-elsamouly)
 
 </div>
 
@@ -38,10 +38,17 @@ class About extends Me {
     "OtherSkills" : { "CyberSecurity", "MS Office" }
   };
 }
+👨‍🎓 أنا Mohamed Mahmoud طالب في جامعة الدلتا التكنولوجية.
+
+💻 عندي خبرة في C, C++, Java, Python, Dart, Flutter.
+
+🤖 بعرف أشتغل على Arduino & Cyber Security.
+
+📚 خبرة في التعامل مع Databases و Microsoft Office.
+
 ⚡ Fun fact: Banging your head against a wall for one hour burns 150 calories.
 
 <div align="center" > <a href="https://github.com/mohamedmahmoud-elsamouly"> <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%"> <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%"> <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%"> </a> <details> <summary>More stats</summary> <img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" > </details> <hr></hr>
-
 Code Cycle<br>
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br> </div> ```
